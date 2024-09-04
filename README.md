@@ -1,16 +1,12 @@
-<h1 align="center">Hi 👋, I'm sousaid/sousaid</h1>
-<h3 align="center">Passionate about software development and possessing strong experience in designing and implementing technical solutions, with in-depth expertise in mobile development.</h3>
+<h1 align="center">Hi 👋, I'm Abdellah SOUSAID</h1>
+<h3 align="center">Passionate about software development and possessing strong experience in designing and implementing technical solutions, with in-depth expertise in mobile iOS development.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fznoydzem.com%2Fimages%2Fcategory%2Fmobiledeveloper.jpg&tbnid=OvOQrouesP-QPM&vet=12ahUKEwiDpp_VlNiDAxUtsCcCHXKBBv0QMygdegUIARCMAQ..i&imgrefurl=https%3A%2F%2Fznoydzem.com%2Fvacancies%2Fmobile-developer&docid=NiLG8aZ__Ueq6M&w=480&h=317&q=mobiledeveloper&ved=2ahUKEwiDpp_VlNiDAxUtsCcCHXKBBv0QMygdegUIARCMAQ"
 
-- 🔭 I’m currently working on **chat App**
+- 🔭 I’m currently working at **Adria Business and Technology**
 
-- 🌱 I’m currently learning **UIKit, SwiftUI, Core Data, Provider, langchain**
+- 🌱 I’m currently learning **SwiftUI, Core Data, Provider, langchain**
 
-- 👯 I’m looking to collaborate on **API chat**
-
-- 🤝 I’m looking for help with **desi implementing technical solutions, with mobile development**
-
-- 💬 Ask me about **JAVA(OOP),Spring, Python, Swift,MySQL,**
+- 💬 Ask me about **Swift, Objective-C**
 
 - 📫 How to reach me **sousaid.abdellah1999@gmail.com**
 
